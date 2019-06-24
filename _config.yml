@@ -2,6 +2,8 @@ theme: jekyll-theme-hacker
 name: R4yquazID
 description: WhiteHat & Datacenter Engineer
 avatar: https://raw.githubusercontent.com/RayquazID/rayquazid.github.io/master/images/28209d1b9c49c25201a8d53c36cd1b3b.jpg
+# Google Analytics
+google_analytics: UA-142567678-1
 
 #
 # !! You don't need to change any of the configuration flags below !!
